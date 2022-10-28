@@ -20,3 +20,7 @@
 
 - Parte 7 – Neuroborrosos.
 
+
+## 📄 Licencia 
+
+Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
